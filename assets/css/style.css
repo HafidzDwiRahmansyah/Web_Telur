@@ -1,0 +1,71 @@
+.section-pt {
+    margin-top: 50px;
+}
+
+.section-pt-15 {
+    margin-top: 150px;
+}
+
+.a-custom {
+    text-decoration: none;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+.a-custom:hover {
+    color: rgba(0, 0, 0, 0.703);
+}
+
+.fw-400 {
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+}
+
+.fw-300 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.fw-600 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.fw-800 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.input {
+    border-bottom: 2px solid rgba(255, 166, 0, 0.18);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.input:focus {
+    box-shadow: none;
+    border-bottom: 2px solid orange;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.object-fit{
+    object-fit: cover;
+}
+
+.hover:hover{
+    background-color: orange !important;
+    color: white !important;
+}
+
+.bg-home {
+    background: rgb(245, 201, 2);
+    background: linear-gradient(90deg, rgba(245, 201, 2, 0.9950105042016807) 0%, rgba(255, 253, 0, 1) 20%, rgba(245, 205, 2, 1) 40%, rgba(253, 236, 0, 1) 60%, rgba(246, 202, 2, 1) 80%, rgba(254, 245, 0, 1) 100%);
+}
